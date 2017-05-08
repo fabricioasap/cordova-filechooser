@@ -1,0 +1,22 @@
+{
+  "name": "cordova_file_chooser_asap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "www/fileChooser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabricioasap/cordova-filechooser.git"
+  },
+  "keywords": [
+    "fileChooser"
+  ],
+  "author": "Fabricio Duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabricioasap/cordova-filechooser/issues"
+  },
+  "homepage": "https://github.com/fabricioasap/cordova-filechooser#readme"
+}
